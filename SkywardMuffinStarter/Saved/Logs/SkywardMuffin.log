@@ -819,3 +819,188 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.19-02.24.34:681][601]LogSkeletalMesh: Section 0: 1268 vertices, 7 active bones
 [2020.04.19-02.24.34:681][601]LogSkeletalMesh: Section 0: Material=0, 2224 triangles
 [2020.04.19-02.24.34:685][601]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/SkywardMuffin/Characters/Muffin/SK_Muffin.SK_Muffin
+[2020.04.19-02.27.01:505][478]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/SkywardMuffin/Characters/Muffin/SK_Muffin.SK_Muffin
+[2020.04.19-02.27.01:517][478]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.04.19-02.27.01:708][478]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.04.19-02.27.01:715][478]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2020.04.19-02.27.43:833][331]Cmd: TRANSACTION UNDO
+[2020.04.19-02.27.43:834][331]LogEditorTransaction: Undo Persona editor: Add material slot
+[2020.04.19-02.27.43:912][331]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.04.19-02.28.01:234][895]LogTexture: Display: Building textures: T_Muffin_D (AutoDXT, 2048X2048)
+[2020.04.19-02.28.01:234][895]LogMaterial: Display: Missing cached shader map for material M_Muffin, compiling. 
+[2020.04.19-02.28.01:262][895]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2020.04.19-02.28.01:262][895]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2020.04.19-02.28.01:262][895]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2020.04.19-02.28.01:262][895]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2020.04.19-02.28.11:390][ 21]LogSlate: Window 'SK_Muffin' being destroyed
+[2020.04.19-02.28.11:394][ 21]LogSlate: Window 'SK_Muffin' being destroyed
+[2020.04.19-02.28.11:395][ 21]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.04.19-02.28.11:395][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.19-02.28.33:215][448]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SkywardMuffin/Characters/Muffin/BP_Muffin.BP_Muffin
+[2020.04.19-02.29.07:955][102]LogSlate: Window 'BP_Muffin' being destroyed
+[2020.04.19-02.29.07:960][102]LogSlate: Window 'BP_Muffin' being destroyed
+[2020.04.19-02.29.07:971][102]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.04.19-02.29.07:972][102]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.19-02.29.08:713][179]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.19-02.29.08:725][179]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.04.19-02.29.08:726][179]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.04.19-02.29.08:739][179]LogPlayLevel: [PlayLevel] Compiling BP_Muffin before play...
+[2020.04.19-02.29.09:213][179]LogUObjectHash: Compacting FUObjectHashTables data took   5.53ms
+[2020.04.19-02.29.09:215][179]LogPlayLevel: PlayLevel: Blueprint regeneration took 488 ms (1 blueprints)
+[2020.04.19-02.29.09:215][179]PIE: New page: PIE session: TutorialMap (Apr 18, 2020, 12:29:09 PM)
+[2020.04.19-02.29.09:216][179]LogPlayLevel: Creating play world package: /Game/SkywardMuffin/Maps/UEDPIE_0_TutorialMap
+[2020.04.19-02.29.09:219][179]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003427s)
+[2020.04.19-02.29.09:220][179]LogAIModule: Creating AISystem for world TutorialMap
+[2020.04.19-02.29.09:220][179]LogPlayLevel: PIE: World Init took: (0.000852s)
+[2020.04.19-02.29.09:220][179]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SkywardMuffin/Maps/TutorialMap.TutorialMap to /Game/SkywardMuffin/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.004407s)
+[2020.04.19-02.29.09:290][179]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2020.04.19-02.29.09:291][179]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.19-02.29.09:291][179]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.19-02.29.09:291][179]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.19-02.29.09:291][179]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.19-02.29.09:291][179]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.19-02.29.09:291][179]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.19-02.29.09:291][179]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.19-02.29.09:291][179]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.19-02.29.09:291][179]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.19-02.29.09:291][179]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.19-02.29.09:325][179]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.19-02.29.09:325][179]LogAudioMixer: Display: Name: Headphones (Corsair HS60 Surround Adapter)
+[2020.04.19-02.29.09:325][179]LogAudioMixer: Display: Is Default: Yes
+[2020.04.19-02.29.09:325][179]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.19-02.29.09:325][179]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.19-02.29.09:325][179]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.19-02.29.09:325][179]LogAudioMixer: Display: Channel Order:
+[2020.04.19-02.29.09:325][179]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.19-02.29.09:325][179]LogAudioMixer: Display: 1: FrontRight
+[2020.04.19-02.29.09:337][179]LogAudioMixer: Display: Using Audio Device Headphones (Corsair HS60 Surround Adapter)
+[2020.04.19-02.29.09:339][179]LogInit: FAudioDevice initialized.
+[2020.04.19-02.29.09:347][179]LogLoad: Game class is 'GM_Tutorial_C'
+[2020.04.19-02.29.09:348][179]LogWorld: Bringing World /Game/SkywardMuffin/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2020.04.18-19.29.09
+[2020.04.19-02.29.09:349][179]LogWorld: Bringing up level for play took: 0.000601
+[2020.04.19-02.29.09:349][179]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2020.04.19-02.29.09:351][179]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.19-02.29.09:351][179]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.19-02.29.09:352][179]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.19-02.29.09:352][179]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.19-02.29.09:352][179]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.19-02.29.09:352][179]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.19-02.29.09:352][179]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.19-02.29.09:352][179]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.19-02.29.09:352][179]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.19-02.29.09:353][179]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.19-02.29.09:353][179]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.19-02.29.09:353][179]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.19-02.29.09:353][179]Cmd: ShowFlag.Tonemapper 0
+[2020.04.19-02.29.09:353][179]ShowFlag.Tonemapper = "0"
+[2020.04.19-02.29.09:354][179]PIE: Play in editor start time for /Game/SkywardMuffin/Maps/UEDPIE_0_TutorialMap 0.004
+[2020.04.19-02.29.09:354][179]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.04.19-02.29.12:501][553]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.19-02.29.12:501][553]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.19-02.29.12:501][553]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.19-02.29.12:501][553]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.19-02.29.13:101][625]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.19-02.29.13:101][625]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.19-02.29.13:101][625]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.19-02.29.13:101][625]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.19-02.29.14:626][808]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.19-02.29.14:626][808]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.19-02.29.14:627][808]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.19-02.29.14:627][808]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.19-02.29.15:359][896]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.19-02.29.15:359][896]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.19-02.29.15:360][896]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.19-02.29.15:360][896]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.19-02.29.16:018][975]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.19-02.29.16:018][975]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.19-02.29.16:018][975]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.19-02.29.16:018][975]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.19-02.29.17:001][ 93]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.19-02.29.17:001][ 93]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.19-02.29.17:002][ 93]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.19-02.29.17:002][ 93]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.19-02.29.18:892][320]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.19-02.29.18:892][320]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.19-02.29.18:892][320]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.19-02.29.18:892][320]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.19-02.29.20:426][504]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.19-02.29.20:426][504]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.19-02.29.20:426][504]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.19-02.29.20:426][504]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.19-02.29.20:901][561]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.19-02.29.20:901][561]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.19-02.29.20:902][561]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.19-02.29.20:902][561]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.19-02.29.21:568][641]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.19-02.29.21:568][641]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.19-02.29.21:568][641]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.19-02.29.21:568][641]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.19-02.29.23:442][866]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.19-02.29.23:442][866]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.19-02.29.23:443][866]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.19-02.29.23:443][866]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.19-02.29.24:118][947]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.19-02.29.24:118][947]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.19-02.29.24:118][947]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.19-02.29.24:118][947]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.19-02.29.24:993][ 52]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.19-02.29.24:993][ 52]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.19-02.29.24:993][ 52]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.19-02.29.24:993][ 52]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.19-02.29.25:525][116]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.19-02.29.25:525][116]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.19-02.29.25:525][116]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.19-02.29.25:525][116]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.19-02.29.26:625][248]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.19-02.29.26:625][248]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.19-02.29.26:626][248]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.19-02.29.26:626][248]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.19-02.29.28:176][434]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.19-02.29.28:176][434]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.19-02.29.28:176][434]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.19-02.29.28:176][434]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.19-02.29.29:201][557]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.19-02.29.29:201][557]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.19-02.29.29:202][557]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.19-02.29.29:202][557]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.19-02.29.29:684][615]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.19-02.29.29:684][615]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.19-02.29.29:684][615]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.19-02.29.29:684][615]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.19-02.29.30:376][698]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.19-02.29.30:376][698]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.19-02.29.30:377][698]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.19-02.29.30:377][698]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.19-02.29.31:026][776]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.19-02.29.31:026][776]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.19-02.29.31:026][776]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.19-02.29.31:026][776]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.19-02.29.37:410][542]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.19-02.29.37:410][542]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.19-02.29.37:410][542]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.19-02.29.37:410][542]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.19-02.29.37:411][542]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.19-02.29.37:411][542]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.19-02.29.37:411][542]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.19-02.29.37:411][542]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.19-02.29.37:411][542]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.19-02.29.37:411][542]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.19-02.29.37:412][542]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.19-02.29.37:412][542]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.19-02.29.37:412][542]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2020.04.19-02.29.37:412][542]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2020.04.19-02.29.38:493][672]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.19-02.29.38:493][672]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.19-02.29.38:493][672]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.04.19-02.29.38:493][672]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.19-02.29.38:493][672]LogWorld: BeginTearingDown for /Game/SkywardMuffin/Maps/UEDPIE_0_TutorialMap
+[2020.04.19-02.29.38:493][672]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.19-02.29.38:493][672]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2020.04.19-02.29.38:493][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.19-02.29.38:499][672]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.19-02.29.38:499][672]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/SkywardMuffin/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2020.04.19-02.29.38:504][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.19-02.29.38:537][672]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.19-02.29.38:539][672]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.19-02.29.38:544][672]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2020.04.19-02.29.38:594][675]LogPlayLevel: Display: Destroying online subsystem :Context_9
